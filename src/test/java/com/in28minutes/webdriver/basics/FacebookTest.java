@@ -76,7 +76,7 @@ public class FacebookTest extends BasicTests {
 
         WebElement psswrd = driver.findElement(By.id("password_step_input"));
         psswrd.click();
-        psswrd.sendKeys("1312950x00");
+        psswrd.sendKeys("131562950cdx00");
         Thread.sleep(1000);
 
         WebElement day = driver.findElement(By.id("day"));
@@ -144,7 +144,7 @@ public class FacebookTest extends BasicTests {
         e.sendKeys("duygubaran1995@gmail.com");
         WebElement s = driver.findElement(By.id("id_password"));
         s.click();
-        s.sendKeys("dbcbsbsb13121995");
+        s.sendKeys("dybbcjjdkakdb1dsfnk5");
         WebElement b = driver.findElement(By.id("submit-id-submit"));
         b.click();
 
